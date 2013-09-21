@@ -1,0 +1,3 @@
+a simple python script to read the output of 'show config running' from a palo alto firewall
+and output the firewall rules into a csv file
+
